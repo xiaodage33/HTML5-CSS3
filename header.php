@@ -39,7 +39,7 @@
                             <ul>
                                 <li><a href="" title="行业动态">行业动态</a></li>
                                 <li><a href="" title="朗朗资讯">朗朗资讯</a></li>
-                                <li><a href="" title="媒体报道">媒体报道</a></li>
+                                <li><a href="newsDetailed.php" title="媒体报道">媒体报道</a></li>
                                 <li><a href="publicWelfare.php" title="公益活动">公益活动</a></li>
                             </ul>
                         </li>
